@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Try!  
-### 🐬 ######[여가 생활 성향으로 알아보는 동물 테스트](https://lun-lun-neko.github.io/ydplab/) ### 🐧
+### <span style="font-size: 1.4em;">🐬</span> [여가 생활 성향으로 알아보는 동물 테스트](https://lun-lun-neko.github.io/ydplab/) <span style="font-size: 1.4em;">🐧</span>
 
 <!--
 **lun-lun-neko/lun-lun-neko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
