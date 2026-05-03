@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)  
 
-
+<center>가운데</center>  
 <center>##Skills</center>  
   
   
