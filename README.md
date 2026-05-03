@@ -1,4 +1,4 @@
-<center> ![header](https://capsule-render.vercel.app/api?type=waving&color=auto) </center>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 
 
 <center> ##Skills </center>
